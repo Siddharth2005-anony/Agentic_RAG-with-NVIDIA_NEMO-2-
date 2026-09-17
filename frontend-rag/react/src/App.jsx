@@ -199,7 +199,7 @@ function App() {
               <h2>Agentic RAG pipeline in "Enterprise" level.</h2>
               <p className="hero-text">
                 An end-to-end retrieval-augmented AI assistant featuring semantic
-                search, vector retrieval, and grounded responses. Supported upto 26
+                search, vector retrieval,tool calling and grounded responses. Supported upto 34
                 Languages.
               </p>
             </div>

@@ -14,30 +14,38 @@ const techStack = [
 const supportedLanguages = [
   { name: "English", flag: "🇺🇸" },
   { name: "Arabic", flag: "🇸🇦" },
+  { name: "Assamese", flag: "🇮🇳" },
   { name: "Bengali", flag: "🇧🇩" },
+  { name: "Bulgarian", flag: "🇧🇬" },
   { name: "Chinese", flag: "🇨🇳" },
-  { name: "Czech", flag: "🇨🇿" },
   { name: "Danish", flag: "🇩🇰" },
   { name: "Dutch", flag: "🇳🇱" },
   { name: "Finnish", flag: "🇫🇮" },
   { name: "French", flag: "🇫🇷" },
   { name: "German", flag: "🇩🇪" },
-  { name: "Hebrew", flag: "🇮🇱" },
   { name: "Hindi", flag: "🇮🇳" },
-  { name: "Hungarian", flag: "🇭🇺" },
+  { name: "Hinglish", flag: "🇮🇳" },
   { name: "Indonesian", flag: "🇮🇩" },
   { name: "Italian", flag: "🇮🇹" },
   { name: "Japanese", flag: "🇯🇵" },
   { name: "Korean", flag: "🇰🇷" },
+  { name: "Malay", flag: "🇲🇾" },
+  { name: "Marathi", flag: "🇮🇳" },
+  { name: "Nepali", flag: "🇳🇵" },
   { name: "Norwegian", flag: "🇳🇴" },
-  { name: "Persian (Farsi)", flag: "🇮🇷" },
-  { name: "Polish", flag: "🇵🇱" },
+  { name: "Persian", flag: "🇮🇷" },
   { name: "Portuguese", flag: "🇵🇹" },
+  { name: "Romanian", flag: "🇷🇴" },
   { name: "Russian", flag: "🇷🇺" },
   { name: "Spanish", flag: "🇪🇸" },
+  { name: "Swahili", flag: "🇰🇪" },
   { name: "Swedish", flag: "🇸🇪" },
+  { name: "Tamil", flag: "🇮🇳" },
+  { name: "Telugu", flag: "🇮🇳" },
   { name: "Thai", flag: "🇹🇭" },
-  { name: "Turkish", flag: "🇹🇷" },
+  { name: "Ukrainian", flag: "🇺🇦" },
+  { name: "Urdu", flag: "🇵🇰" },
+  { name: "Vietnamese", flag: "🇻🇳" },
 ];
 
 function About({ onBack }) {
@@ -67,7 +75,7 @@ function About({ onBack }) {
 
           <div className="stat-card stat-card-muted">
             <span className="stat-label">Supported languages</span>
-            <strong className="stat-value">26 languages</strong>
+            <strong className="stat-value">34 languages</strong>
           </div>
         </div>
       </section>

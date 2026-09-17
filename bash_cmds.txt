@@ -1,3 +1,7 @@
+
+ssh -i ubuntu-2.pem ubuntu@13.63.33.243
+http://13.63.33.243
+
 aws ecr create-repository \
     --repository-name rag-backend \
     --region eu-north-1

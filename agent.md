@@ -16,7 +16,7 @@ Before coding, understand the context and commit to a BOLD aesthetic direction:
 - **Constraints**: Technical requirements (framework, performance, accessibility).
 - **Differentiation**: What makes this UNFORGETTABLE? What's the one thing someone will remember?
 - **Folder location**: frontend-rag/react/src
-- **COlor pallette**: [#810B38 ,#F1E2D1, #DCC3AA, #541A1A ]
+
 
 **CRITICAL**: Choose a clear conceptual direction and execute it with precision. Bold maximalism and refined minimalism both work - the key is intentionality, not intensity.
 

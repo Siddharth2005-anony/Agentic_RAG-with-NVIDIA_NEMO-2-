@@ -359,7 +359,7 @@ function App() {
                       Ask a question to see the response and its real round-trip time.
                     </p>
                     <p className="empty-copy">
-                      For eg: capital of tokyo? When do the cherry blossoms bloom?etc..
+                      For eg: capital of Japan? Tallest mountain of japan?etc..
                     </p>
                   </div>
                 )}

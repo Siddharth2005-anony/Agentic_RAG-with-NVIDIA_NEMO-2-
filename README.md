@@ -2,6 +2,10 @@
 
 An enterprise-grade Retrieval-Augmented Generation (RAG) system with a React frontend and FastAPI backend. Features document ingestion, semantic search, vector storage with Milvus, NVIDIA embeddings, and OpenAI-powered grounded responses.
 
+# Demo URL
+
+Link: http://13.63.33.243
+
 ## Architecture Overview
 
 ```

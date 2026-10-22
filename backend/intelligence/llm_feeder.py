@@ -27,7 +27,7 @@ class LLMBaby:
         user_content = f"### Context:\n{results}\n\n### Query:\n{query}"
 
         response = self.client.chat.completions.create(
-            model="gpt-4.1-mini",
+            model="gpt-6-luna",
             messages=[
                 {"role": "system", "content": system_m},
                 {"role": "user", "content": user_content},
